@@ -1,4 +1,4 @@
 视觉入门——第二阶段任务  
-文件夹里是代码和CMakeLists.txt文件，代码的分析和实现步骤都写在语雀的实操部分文件夹里面  
-docker和cmake的笔记在语雀的学习部分文件夹里  
-语雀链接https://www.yuque.com/yuqueyonghuro8op0/bldgta?# 《视觉》  
+WEEK3文件夹里是实践任务的代码和输出文件  
+该任务的实现思路和步骤在https://www.yuque.com/yuqueyonghuro8op0/bldgta/vfzl9gkte9v1c197?singleDoc# 《红绿灯》
+opencv知识点总结在https://www.yuque.com/yuqueyonghuro8op0/bldgta/argc5m4wb94dz4q7?singleDoc# 《opencv知识点》
